@@ -1,0 +1,1 @@
+// Classe para os inimigos e carros.
